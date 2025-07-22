@@ -77,3 +77,7 @@ Strategus::execute(
   connectionDetails = connectionDetails
 )
 connectionDetails$server()
+
+# lanuch a shiny app to visualize the results
+library(PatientLevelPrediction)
+viewMultiplePlp("results/Eunomia/strategusWork/PatientLevelPredictionModule")
