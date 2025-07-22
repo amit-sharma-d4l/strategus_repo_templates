@@ -77,3 +77,12 @@ Strategus::execute(
   connectionDetails = connectionDetails
 )
 connectionDetails$server()
+
+# visualize the results generated from Strategus study execution
+library(CohortMethod)
+
+# Path to the output folder from the Strategus run
+resultFolder <- "results/Eunomia/strategusWork/CohortMethodModule"
+
+# Launch the Shiny app
+launchResultsExplorer(resultFolder)
