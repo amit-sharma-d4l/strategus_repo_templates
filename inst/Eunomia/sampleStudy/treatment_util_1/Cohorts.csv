@@ -1,0 +1,5 @@
+atlas_id,cohort_id,cohort_name,logic_description,generate_stats
+1793768,1,depression,NA,TRUE
+1792324,2,SSRI,NA,TRUE 
+1792325,3,SNRI,NA,TRUE
+1792331,4,BUPROPION,NA,TRUE

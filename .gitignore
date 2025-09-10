@@ -1,1 +1,11 @@
 *.DS_Store
+*.zip
+*.json
+*.tar.gz
+*.Renviron
+.Rhistory
+.RData
+*.sqlite
+**/strategus-log.txt
+errorReportSql.txt
+test_notebook.R

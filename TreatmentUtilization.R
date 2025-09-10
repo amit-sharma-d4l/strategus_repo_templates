@@ -11,16 +11,10 @@ studyEndDate <- "20231231"
 
 # Load all cohorts
 cohortDefinitionSet <- CohortGenerator::getCohortDefinitionSet(
-  settingsFileName = "inst/Eunomia/sampleStudy/Cohorts.csv",
-  jsonFolder = "inst/Eunomia/sampleStudy/cohorts",
-  sqlFolder = "inst/Eunomia/sampleStudy/sql/sql_server"
+  settingsFileName = "inst/Eunomia/sampleStudy/treatment_util/Cohorts.csv",
+  jsonFolder = "inst/Eunomia/sampleStudy/treatment_util/cohorts",
+  sqlFolder = "inst/Eunomia/sampleStudy/treatment_util/sql/sql_server"
 )
-
-# Assume target cohort is for depression
-targetCohortId <- 1  # actual depression cohort ID
-
-# Event cohorts: SSRI, SNRI, TCA, bupropion, esketamine
-eventCohortIds <- c(2, 3, 4, 5, 6)  
 
 # Shared resources
 cgModuleSettingsCreator <- CohortGeneratorModule$new()
@@ -29,23 +23,22 @@ cohortGeneratorModuleSpecifications <- cgModuleSettingsCreator$createModuleSpeci
 
 # TreatmentPatterns module setup
 tpModuleSettingsCreator <- TreatmentPatternsModule$new()
-
+cohorts_frame = data.frame(
+                cohortId = c(1, 3),
+                cohortName = c("celecoxib", "GI Bleed"),
+                type = c("target", "event")
+            )
+# cohorts_frame = data.frame(
+#                 cohortId = c(1, 2, 3, 4),
+#                 cohortName = c("depression", "SSRI", "SNRI", "BUPROPION"),
+#                 type = c("target", "event", "event", "event")
+#             )
 treatmentPatternsSpecifications <- tpModuleSettingsCreator$createModuleSpecifications(
-  targetCohortId = targetCohortId,
-  eventCohortIds = eventCohortIds,
-  studyWindow = list(
-    startDate = studyStartDate,
-    endDate = studyEndDate
-  ),
-  periodPriorToIndex = 0,
-  minEraDuration = 0,
-  combinationWindow = 30,
-  minPostCombinationDuration = 0,
-  splitEventCohorts = TRUE,
-  minCellCount = 5,
-  groupCombinations = TRUE
+  cohorts = cohorts_frame, 
+  windowEnd = 730
 )
 
+# Create analysis spec
 # Create analysis spec
 analysisSpecifications <- Strategus::createEmptyAnalysisSpecificiations() |>
   Strategus::addSharedResources(cohortDefinitionShared) |>
@@ -57,3 +50,4 @@ ParallelLogger::saveSettingsToJson(
   analysisSpecifications,
   file.path("inst", "Eunomia", "SampleStudy", "treatmentPatternsAnalysisSpecification.json")
 )
+print("Analysis specifications saved successfully.")
