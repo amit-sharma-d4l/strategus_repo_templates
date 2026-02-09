@@ -1,0 +1,76 @@
+table_name,column_name,data_type,is_required,primary_key,description
+tp_analyses,analysis_id,int,yes,no,Analysis identifier
+tp_analyses,description,varchar,yes,no,Analysis description
+tp_arguments,analysis_id,int,yes,no,Analysis identifier
+tp_arguments,arguments,varchar,no,no,Arguments as JSON
+tp_arguments,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_attrition,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_attrition,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_attrition,number_records,int,yes,no,Number of records
+tp_attrition,number_subjects,int,yes,no,Number of subjects
+tp_attrition,reason,varchar,yes,no,Reason description
+tp_attrition,reason_id,int,yes,no,Reason Identifier
+tp_attrition,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_attrition,target_cohort_name,varchar,FALSE,FALSE,Target cohort name
+tp_attrition,time_stamp,bigint,yes,no,Time stamp in seconds since epoch (1970-01-01)
+tp_cdm_source_info,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_cdm_source_info,cdm_etl_reference,varchar,yes,no,CDM ETL Reference
+tp_cdm_source_info,cdm_holder,varchar,yes,no,Cdm holder
+tp_cdm_source_info,cdm_release_date,date,yes,no,CDM release date
+tp_cdm_source_info,cdm_source_abbreviation,varchar,yes,no,CDM Source Abbreviation
+tp_cdm_source_info,cdm_source_name,varchar,yes,no,CDM Source Name
+tp_cdm_source_info,cdm_version,varchar,yes,no,CDM version
+tp_cdm_source_info,cdm_version_concept_id,int4,FALSE,no,CDM version concept identifier
+tp_cdm_source_info,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_cdm_source_info,source_description,varchar,yes,no,Source description
+tp_cdm_source_info,source_documentation_reference,varchar,yes,no,Source Documentation Reference
+tp_cdm_source_info,source_release_date,date,yes,no,Source release date
+tp_cdm_source_info,vocabulary_version,varchar,yes,no,Vocabulary version
+tp_counts_age,age,int,yes,no,Age in years
+tp_counts_age,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_counts_age,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_counts_age,n,varchar,yes,no,Count per age. May be <x
+tp_counts_age,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_counts_age,target_cohort_name,varchar,FALSE,FALSE,Target cohort name
+tp_counts_sex,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_counts_sex,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_counts_sex,n,varchar,yes,no,Count per sex. May be <x
+tp_counts_sex,sex,varchar,yes,no,Sex group
+tp_counts_sex,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_counts_sex,target_cohort_name,varchar,FALSE,FALSE,Target cohort name
+tp_counts_year,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_counts_year,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_counts_year,n,varchar,yes,no,Count per year. May be <x
+tp_counts_year,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_counts_year,target_cohort_name,varchar,FALSE,FALSE,Target cohort name
+tp_counts_year,index_year,integer,FALSE,FALSE,Calendar year
+tp_metadata,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_metadata,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_metadata,execution_end,bigint,yes,no,Time stamp in seconds since epoch (1970-01-01)
+tp_metadata,execution_start,bigint,yes,no,Time stamp in seconds since epoch (1970-01-01)
+tp_metadata,package_version,varchar,yes,no,TreatmentPatterns version
+tp_metadata,platform,varchar,yes,no,Platform (Example: x86_64-w64-mingw32)
+tp_metadata,r_version,varchar,yes,no,R version
+tp_summary_event_duration,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_summary_event_duration,duration_average,float,yes,no,Average duration in days
+tp_summary_event_duration,event_count,int,yes,no,Count of (combination) event
+tp_summary_event_duration,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_summary_event_duration,event_name,varchar,yes,no,Name of (combination) event
+tp_summary_event_duration,line,varchar,yes,no,Position in pathway. I.e. 1 equals the first event in a pathway. 2 the second etc. Overall indicates across the entire pathway
+tp_summary_event_duration,duration_max,int,yes,no,Maximum duration in days
+tp_summary_event_duration,duration_median,int,yes,no,Median duration in days
+tp_summary_event_duration,duration_min,int,yes,no,Minimum duration in days
+tp_summary_event_duration,duration_q_1,int,yes,no,Q1 duration in days
+tp_summary_event_duration,duration_q_2,int,yes,no,Q2 duration in days
+tp_summary_event_duration,duration_sd,float,yes,no,Standard Deviation of duration in days
+tp_summary_event_duration,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_summary_event_duration,target_cohort_name,varchar,FALSE,FALSE,Target cohort name
+tp_treatment_pathways,age,varchar,yes,no,Age stratum
+tp_treatment_pathways,analysis_id,int,yes,no,Analysis identifier foreign key
+tp_treatment_pathways,database_id,integer,TRUE,TRUE,Unique identifier for the database
+tp_treatment_pathways,freq,int,yes,no,Count of pathway
+tp_treatment_pathways,index_year,varchar,yes,no,Target index year stratum
+tp_treatment_pathways,pathway,varchar,yes,no,Pathway
+tp_treatment_pathways,sex,varchar,yes,no,Sex stratum
+tp_treatment_pathways,target_cohort_id,integer,FALSE,FALSE,Target cohort ID
+tp_treatment_pathways,target_cohort_name,varchar,FALSE,FALSE,Target cohort name

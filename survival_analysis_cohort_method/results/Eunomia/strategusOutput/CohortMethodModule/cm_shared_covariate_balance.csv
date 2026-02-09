@@ -1,0 +1,1 @@
+database_id,target_id,comparator_id,analysis_id,covariate_id,mean_before,target_mean_before,comparator_mean_before,std_diff_before,mean_after,target_mean_after,comparator_mean_after,std_diff_after,target_std_diff,comparator_std_diff,target_comparator_std_diff

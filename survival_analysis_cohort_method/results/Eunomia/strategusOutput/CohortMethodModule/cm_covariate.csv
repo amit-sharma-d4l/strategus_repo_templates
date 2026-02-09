@@ -1,0 +1,396 @@
+covariate_id,covariate_name,covariate_analysis_id,analysis_id,database_id
+80180212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Osteoarthritis,212,1,388020256
+372328212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Otitis media,212,1,388020256
+4266809212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Diverticular disease,212,1,388020256
+4218389212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Whiplash injury to neck,212,1,388020256
+4112343212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Acute viral pharyngitis,212,1,388020256
+4116491212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Escherichia coli urinary tract infection,212,1,388020256
+4285898212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Polyp of colon,212,1,388020256
+260139212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Acute bronchitis,212,1,388020256
+4283893212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Sinusitis,212,1,388020256
+40481087212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Viral sinusitis,212,1,388020256
+4152936212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Laceration of thigh,212,1,388020256
+4296204212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: First degree burn,212,1,388020256
+4280726212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Seasonal allergic rhinitis,212,1,388020256
+28060212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Streptococcal sore throat,212,1,388020256
+4278672212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Fracture of forearm,212,1,388020256
+40486433212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Perennial allergic rhinitis,212,1,388020256
+4149245212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Rupture of patellar tendon,212,1,388020256
+257012212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Chronic sinusitis,212,1,388020256
+4294548212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Acute bacterial sinusitis,212,1,388020256
+378001212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Concussion with no loss of consciousness,212,1,388020256
+4001336212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Concussion injury of brain,212,1,388020256
+4132546212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Traumatic brain injury,212,1,388020256
+134438212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Contact dermatitis,212,1,388020256
+4134304212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Fracture subluxation of wrist,212,1,388020256
+80809212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Rheumatoid arthritis,212,1,388020256
+4048171212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Perennial allergic rhinitis with seasonal variation,212,1,388020256
+4237458212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Fracture of clavicle,212,1,388020256
+195588212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Cystitis,212,1,388020256
+375671212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Concussion with loss of consciousness,212,1,388020256
+4035415212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Tear of meniscus of knee,212,1,388020256
+439777212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Anemia,212,1,388020256
+317576212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Coronary arteriosclerosis,212,1,388020256
+78272212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Sprain of wrist,212,1,388020256
+4084167212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Acute allergic reaction,212,1,388020256
+4109685212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Laceration of foot,212,1,388020256
+4296205212,condition_era group (ConditionGroupEraShortTerm) during day -30 through 0 days relative to index: Second degree burn,212,1,388020256
+1901,Charlson index - Romano adaptation,901,1,388020256
+1904,CHADS2VASc,904,1,388020256
+3006322704,measurement during day -30 through 0 days relative to index: Oral temperature,704,1,388020256
+4052083704,measurement during day -30 through 0 days relative to index: Measurement of respiratory function,704,1,388020256
+4024958704,measurement during day -30 through 0 days relative to index: Throat culture,704,1,388020256
+3000876704,measurement during day -30 through 0 days relative to index: Codfish IgE Ab [Units/volume] in Serum,704,1,388020256
+3001247704,measurement during day -30 through 0 days relative to index: Common Ragweed IgE Ab [Units/volume] in Serum,704,1,388020256
+3001488704,measurement during day -30 through 0 days relative to index: Cow milk IgE Ab [Units/volume] in Serum,704,1,388020256
+3005136704,measurement during day -30 through 0 days relative to index: Cladosporium herbarum IgE Ab [Units/volume] in Serum,704,1,388020256
+3006451704,measurement during day -30 through 0 days relative to index: Walnut IgE Ab [Units/volume] in Serum,704,1,388020256
+3006734704,measurement during day -30 through 0 days relative to index: White Oak IgE Ab [Units/volume] in Serum,704,1,388020256
+3012494704,measurement during day -30 through 0 days relative to index: Peanut IgE Ab [Units/volume] in Serum,704,1,388020256
+3014599704,measurement during day -30 through 0 days relative to index: Egg white IgE Ab [Units/volume] in Serum,704,1,388020256
+3015076704,measurement during day -30 through 0 days relative to index: Soybean IgE Ab [Units/volume] in Serum,704,1,388020256
+3019406704,measurement during day -30 through 0 days relative to index: Latex IgE Ab [Units/volume] in Serum,704,1,388020256
+3020655704,measurement during day -30 through 0 days relative to index: Honey bee IgE Ab [Units/volume] in Serum,704,1,388020256
+3021226704,measurement during day -30 through 0 days relative to index: Shrimp IgE Ab [Units/volume] in Serum,704,1,388020256
+3023430704,measurement during day -30 through 0 days relative to index: Cat dander IgE Ab [Units/volume] in Serum,704,1,388020256
+3027231704,measurement during day -30 through 0 days relative to index: Wheat IgE Ab [Units/volume] in Serum,704,1,388020256
+3036780704,measurement during day -30 through 0 days relative to index: American house dust mite IgE Ab [Units/volume] in Serum,704,1,388020256
+3000963704,measurement during day -30 through 0 days relative to index: Hemoglobin,704,1,388020256
+3009542704,measurement during day -30 through 0 days relative to index: Hematocrit,704,1,388020256
+3011505704,measurement during day -30 through 0 days relative to index: FEV1/FVC,704,1,388020256
+4133840704,measurement during day -30 through 0 days relative to index: Spirometry,704,1,388020256
+1112807410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Aspirin,410,1,388020256
+1118084410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: celecoxib,410,1,388020256
+1125315410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Acetaminophen,410,1,388020256
+1713332410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Amoxicillin,410,1,388020256
+1759842410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Clavulanate,410,1,388020256
+1115008410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Naproxen,410,1,388020256
+1124300410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Diclofenac,410,1,388020256
+920293410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Nitrofurantoin,410,1,388020256
+933724410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Phenazopyridine,410,1,388020256
+1729720410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Penicillin V,410,1,388020256
+975125410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Hydrocortisone,410,1,388020256
+19010482410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Cyclosporine,410,1,388020256
+1768849410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Cefaclor,410,1,388020256
+1322184410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: clopidogrel,410,1,388020256
+1361711410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Nitroglycerin,410,1,388020256
+1177480410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Ibuprofen,410,1,388020256
+738818410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Doxylamine,410,1,388020256
+1119510410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Dextromethorphan,410,1,388020256
+1102527410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Meperidine,410,1,388020256
+1174888410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Hydrocodone,410,1,388020256
+1778162410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Cefuroxime,410,1,388020256
+1539403410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Simvastatin,410,1,388020256
+1150770410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Astemizole,410,1,388020256
+1137529410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: salmeterol,410,1,388020256
+1149380410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: fluticasone,410,1,388020256
+708298410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Midazolam,410,1,388020256
+753626410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Propofol,410,1,388020256
+782043410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Isoflurane,410,1,388020256
+967823410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Sodium Chloride,410,1,388020256
+1000560410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Ondansetron,410,1,388020256
+1110410410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Morphine,410,1,388020256
+1124957410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Oxycodone,410,1,388020256
+1154029410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Fentanyl,410,1,388020256
+1367571410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: heparin,410,1,388020256
+1741122410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: tazobactam,410,1,388020256
+1746114410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Piperacillin,410,1,388020256
+19003953410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Rocuronium,410,1,388020256
+1305058410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Methotrexate,410,1,388020256
+1332418410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Amlodipine,410,1,388020256
+1347450410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: alteplase,410,1,388020256
+914335410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Atropine,410,1,388020256
+1309944410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Amiodarone,410,1,388020256
+1343916410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Epinephrine,410,1,388020256
+1738521410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Doxycycline,410,1,388020256
+1728416410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Penicillin G,410,1,388020256
+1551099410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Prednisone,410,1,388020256
+740275410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Carbamazepine,410,1,388020256
+723013410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Diazepam,410,1,388020256
+1521369410,drug_era group (DrugGroupEraLongTerm) during day -365 through 0 days relative to index: Norethindrone,410,1,388020256
+1118084412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: celecoxib,412,1,388020256
+1115008412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Naproxen,412,1,388020256
+1124300412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Diclofenac,412,1,388020256
+920293412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Nitrofurantoin,412,1,388020256
+933724412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Phenazopyridine,412,1,388020256
+975125412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Hydrocortisone,412,1,388020256
+19010482412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Cyclosporine,412,1,388020256
+1125315412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Acetaminophen,412,1,388020256
+1322184412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: clopidogrel,412,1,388020256
+1361711412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Nitroglycerin,412,1,388020256
+738818412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Doxylamine,412,1,388020256
+1119510412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Dextromethorphan,412,1,388020256
+1729720412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Penicillin V,412,1,388020256
+1124957412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Oxycodone,412,1,388020256
+1305058412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Methotrexate,412,1,388020256
+1177480412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Ibuprofen,412,1,388020256
+1713332412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Amoxicillin,412,1,388020256
+1759842412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Clavulanate,412,1,388020256
+1332418412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Amlodipine,412,1,388020256
+1539403412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Simvastatin,412,1,388020256
+1551099412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Prednisone,412,1,388020256
+740275412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Carbamazepine,412,1,388020256
+1778162412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Cefuroxime,412,1,388020256
+1521369412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Norethindrone,412,1,388020256
+1102527412,drug_era group (DrugGroupEraShortTerm) during day -30 through 0 days relative to index: Meperidine,412,1,388020256
+4052083702,measurement during day -365 through 0 days relative to index: Measurement of respiratory function,702,1,388020256
+3006322702,measurement during day -365 through 0 days relative to index: Oral temperature,702,1,388020256
+4024958702,measurement during day -365 through 0 days relative to index: Throat culture,702,1,388020256
+3011505702,measurement during day -365 through 0 days relative to index: FEV1/FVC,702,1,388020256
+4133840702,measurement during day -365 through 0 days relative to index: Spirometry,702,1,388020256
+3000876702,measurement during day -365 through 0 days relative to index: Codfish IgE Ab [Units/volume] in Serum,702,1,388020256
+3001247702,measurement during day -365 through 0 days relative to index: Common Ragweed IgE Ab [Units/volume] in Serum,702,1,388020256
+3001488702,measurement during day -365 through 0 days relative to index: Cow milk IgE Ab [Units/volume] in Serum,702,1,388020256
+3005136702,measurement during day -365 through 0 days relative to index: Cladosporium herbarum IgE Ab [Units/volume] in Serum,702,1,388020256
+3006451702,measurement during day -365 through 0 days relative to index: Walnut IgE Ab [Units/volume] in Serum,702,1,388020256
+3006734702,measurement during day -365 through 0 days relative to index: White Oak IgE Ab [Units/volume] in Serum,702,1,388020256
+3012494702,measurement during day -365 through 0 days relative to index: Peanut IgE Ab [Units/volume] in Serum,702,1,388020256
+3014599702,measurement during day -365 through 0 days relative to index: Egg white IgE Ab [Units/volume] in Serum,702,1,388020256
+3015076702,measurement during day -365 through 0 days relative to index: Soybean IgE Ab [Units/volume] in Serum,702,1,388020256
+3019406702,measurement during day -365 through 0 days relative to index: Latex IgE Ab [Units/volume] in Serum,702,1,388020256
+3020655702,measurement during day -365 through 0 days relative to index: Honey bee IgE Ab [Units/volume] in Serum,702,1,388020256
+3021226702,measurement during day -365 through 0 days relative to index: Shrimp IgE Ab [Units/volume] in Serum,702,1,388020256
+3023430702,measurement during day -365 through 0 days relative to index: Cat dander IgE Ab [Units/volume] in Serum,702,1,388020256
+3027231702,measurement during day -365 through 0 days relative to index: Wheat IgE Ab [Units/volume] in Serum,702,1,388020256
+3036780702,measurement during day -365 through 0 days relative to index: American house dust mite IgE Ab [Units/volume] in Serum,702,1,388020256
+3051031702,measurement during day -365 through 0 days relative to index: History of Hospitalizations+Outpatient visits Narrative,702,1,388020256
+40758406702,measurement during day -365 through 0 days relative to index: HIV status,702,1,388020256
+40766240702,measurement during day -365 through 0 days relative to index: Are you covered by health insurance or some other kind of health care plan [PhenX],702,1,388020256
+46235214702,measurement during day -365 through 0 days relative to index: Sexual orientation,702,1,388020256
+40769179702,measurement during day -365 through 0 days relative to index: Percentage area affected by eczema Head and Neck [PhenX],702,1,388020256
+40769184702,measurement during day -365 through 0 days relative to index: Percentage area affected by eczema Upper extremity - bilateral [PhenX],702,1,388020256
+40769189702,measurement during day -365 through 0 days relative to index: Percentage area affected by eczema Trunk [PhenX],702,1,388020256
+40769194702,measurement during day -365 through 0 days relative to index: Percentage area affected by eczema Lower extremity - bilateral [PhenX],702,1,388020256
+3000963702,measurement during day -365 through 0 days relative to index: Hemoglobin,702,1,388020256
+3002385702,measurement during day -365 through 0 days relative to index: Erythrocyte distribution width [Ratio],702,1,388020256
+3004501702,measurement during day -365 through 0 days relative to index: Glucose lab,702,1,388020256
+3006906702,measurement during day -365 through 0 days relative to index: Calcium serum/plasma serum/plasma,702,1,388020256
+3006923702,measurement during day -365 through 0 days relative to index: Alanine aminotransferase serum/plasma,702,1,388020256
+3007461702,measurement during day -365 through 0 days relative to index: Platelet count,702,1,388020256
+3009542702,measurement during day -365 through 0 days relative to index: Hematocrit,702,1,388020256
+3010813702,measurement during day -365 through 0 days relative to index: White Blood cell (WBC) count (leukocyte),702,1,388020256
+3013682702,measurement during day -365 through 0 days relative to index: Urea nitrogen serum/plasma,702,1,388020256
+3013721702,measurement during day -365 through 0 days relative to index: Aspartate aminotransferase serum/plasma,702,1,388020256
+3014576702,measurement during day -365 through 0 days relative to index: Chloride serum/plasma,702,1,388020256
+3015632702,measurement during day -365 through 0 days relative to index: Carbon dioxide serum/plasma,702,1,388020256
+3016723702,measurement during day -365 through 0 days relative to index: Creatinine serum/plasma,702,1,388020256
+3019550702,measurement during day -365 through 0 days relative to index: Sodium serum/plasma,702,1,388020256
+3020630702,measurement during day -365 through 0 days relative to index: Protein serum/plasma,702,1,388020256
+3023103702,measurement during day -365 through 0 days relative to index: Potassium serum/plasma,702,1,388020256
+3024561702,measurement during day -365 through 0 days relative to index: Albumin serum/plasma,702,1,388020256
+3024731702,measurement during day -365 through 0 days relative to index: MCV,702,1,388020256
+3026361702,measurement during day -365 through 0 days relative to index: Red blood cell (RBC) count,702,1,388020256
+3027970702,measurement during day -365 through 0 days relative to index: Globulin [Mass/volume] in Serum by calculation,702,1,388020256
+3028833702,measurement during day -365 through 0 days relative to index: Bilirubin.total [Mass/volume] in Blood,702,1,388020256
+3035995702,measurement during day -365 through 0 days relative to index: Alkaline phosphatase serum/plasma,702,1,388020256
+3045716702,measurement during day -365 through 0 days relative to index: Anion gap serum/plasma,702,1,388020256
+21494966702,measurement during day -365 through 0 days relative to index: Physical findings of Abdomen by Palpation,702,1,388020256
+1982006,index year: 1982,6,1,388020256
+1956006,index year: 1956,6,1,388020256
+1957006,index year: 1957,6,1,388020256
+2009006,index year: 2009,6,1,388020256
+2005006,index year: 2005,6,1,388020256
+2008006,index year: 2008,6,1,388020256
+2014006,index year: 2014,6,1,388020256
+1987006,index year: 1987,6,1,388020256
+2013006,index year: 2013,6,1,388020256
+1989006,index year: 1989,6,1,388020256
+1985006,index year: 1985,6,1,388020256
+2012006,index year: 2012,6,1,388020256
+2015006,index year: 2015,6,1,388020256
+1997006,index year: 1997,6,1,388020256
+1993006,index year: 1993,6,1,388020256
+2006006,index year: 2006,6,1,388020256
+1950006,index year: 1950,6,1,388020256
+1999006,index year: 1999,6,1,388020256
+1992006,index year: 1992,6,1,388020256
+1996006,index year: 1996,6,1,388020256
+2011006,index year: 2011,6,1,388020256
+1984006,index year: 1984,6,1,388020256
+1983006,index year: 1983,6,1,388020256
+2003006,index year: 2003,6,1,388020256
+1988006,index year: 1988,6,1,388020256
+1974006,index year: 1974,6,1,388020256
+1995006,index year: 1995,6,1,388020256
+1963006,index year: 1963,6,1,388020256
+1986006,index year: 1986,6,1,388020256
+2000006,index year: 2000,6,1,388020256
+1965006,index year: 1965,6,1,388020256
+2018006,index year: 2018,6,1,388020256
+2017006,index year: 2017,6,1,388020256
+2001006,index year: 2001,6,1,388020256
+1970006,index year: 1970,6,1,388020256
+2016006,index year: 2016,6,1,388020256
+2019006,index year: 2019,6,1,388020256
+1990006,index year: 1990,6,1,388020256
+1972006,index year: 1972,6,1,388020256
+2010006,index year: 2010,6,1,388020256
+2007006,index year: 2007,6,1,388020256
+1969006,index year: 1969,6,1,388020256
+1960006,index year: 1960,6,1,388020256
+1981006,index year: 1981,6,1,388020256
+1975006,index year: 1975,6,1,388020256
+1977006,index year: 1977,6,1,388020256
+1966006,index year: 1966,6,1,388020256
+1954006,index year: 1954,6,1,388020256
+1991006,index year: 1991,6,1,388020256
+2004006,index year: 2004,6,1,388020256
+1998006,index year: 1998,6,1,388020256
+1962006,index year: 1962,6,1,388020256
+1994006,index year: 1994,6,1,388020256
+1976006,index year: 1976,6,1,388020256
+1944006,index year: 1944,6,1,388020256
+1973006,index year: 1973,6,1,388020256
+1953006,index year: 1953,6,1,388020256
+2002006,index year: 2002,6,1,388020256
+1979006,index year: 1979,6,1,388020256
+1968006,index year: 1968,6,1,388020256
+1941006,index year: 1941,6,1,388020256
+1978006,index year: 1978,6,1,388020256
+1971006,index year: 1971,6,1,388020256
+1980006,index year: 1980,6,1,388020256
+1947006,index year: 1947,6,1,388020256
+1949006,index year: 1949,6,1,388020256
+1943006,index year: 1943,6,1,388020256
+1964006,index year: 1964,6,1,388020256
+1958006,index year: 1958,6,1,388020256
+1961006,index year: 1961,6,1,388020256
+1951006,index year: 1951,6,1,388020256
+1952006,index year: 1952,6,1,388020256
+1967006,index year: 1967,6,1,388020256
+1945006,index year: 1945,6,1,388020256
+1948006,index year: 1948,6,1,388020256
+1946006,index year: 1946,6,1,388020256
+1955006,index year: 1955,6,1,388020256
+1959006,index year: 1959,6,1,388020256
+8007,index month: 8,7,1,388020256
+12007,index month: 12,7,1,388020256
+5007,index month: 5,7,1,388020256
+7007,index month: 7,7,1,388020256
+10007,index month: 10,7,1,388020256
+6007,index month: 6,7,1,388020256
+4007,index month: 4,7,1,388020256
+3007,index month: 3,7,1,388020256
+11007,index month: 11,7,1,388020256
+2007,index month: 2,7,1,388020256
+9007,index month: 9,7,1,388020256
+1007,index month: 1,7,1,388020256
+80180210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Osteoarthritis,210,1,388020256
+372328210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Otitis media,210,1,388020256
+4285898210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Polyp of colon,210,1,388020256
+260139210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Acute bronchitis,210,1,388020256
+4266809210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Diverticular disease,210,1,388020256
+4283893210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Sinusitis,210,1,388020256
+40481087210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Viral sinusitis,210,1,388020256
+4218389210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Whiplash injury to neck,210,1,388020256
+4156265210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Facial laceration,210,1,388020256
+30753210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Esophagitis,210,1,388020256
+4112343210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Acute viral pharyngitis,210,1,388020256
+28060210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Streptococcal sore throat,210,1,388020256
+81893210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Ulcerative colitis,210,1,388020256
+4116491210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Escherichia coli urinary tract infection,210,1,388020256
+257012210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Chronic sinusitis,210,1,388020256
+378001210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Concussion with no loss of consciousness,210,1,388020256
+4001336210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Concussion injury of brain,210,1,388020256
+4132546210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Traumatic brain injury,210,1,388020256
+4155034210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Laceration of forearm,210,1,388020256
+195588210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Cystitis,210,1,388020256
+4029498210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Seizure disorder,210,1,388020256
+4152936210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Laceration of thigh,210,1,388020256
+4113008210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Laceration of hand,210,1,388020256
+4296204210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: First degree burn,210,1,388020256
+4310024210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Angiodysplasia of stomach,210,1,388020256
+4280726210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,1,388020256
+375671210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Concussion with loss of consciousness,210,1,388020256
+4296205210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Second degree burn,210,1,388020256
+4278672210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Fracture of forearm,210,1,388020256
+4237458210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Fracture of clavicle,210,1,388020256
+81151210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Sprain of ankle,210,1,388020256
+198199210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Pyelonephritis,210,1,388020256
+40486433210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Perennial allergic rhinitis,210,1,388020256
+4149245210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Rupture of patellar tendon,210,1,388020256
+4294548210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Acute bacterial sinusitis,210,1,388020256
+78272210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Sprain of wrist,210,1,388020256
+134438210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Contact dermatitis,210,1,388020256
+317576210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Coronary arteriosclerosis,210,1,388020256
+4056621210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Recurrent urinary tract infection,210,1,388020256
+196456210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Gallstone,210,1,388020256
+198809210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Acute cholecystitis,210,1,388020256
+4134304210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Fracture subluxation of wrist,210,1,388020256
+80809210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Rheumatoid arthritis,210,1,388020256
+4048171210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Perennial allergic rhinitis with seasonal variation,210,1,388020256
+4109685210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Laceration of foot,210,1,388020256
+4059173210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Fracture of ankle,210,1,388020256
+258780210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Emphysematous bronchitis,210,1,388020256
+4035415210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Tear of meniscus of knee,210,1,388020256
+439777210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Anemia,210,1,388020256
+381316210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Cerebrovascular accident,210,1,388020256
+321042210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Cardiac arrest,210,1,388020256
+261325210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Pulmonary emphysema,210,1,388020256
+4084167210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Acute allergic reaction,210,1,388020256
+4142905210,condition_era group (ConditionGroupEraLongTerm) during day -365 through 0 days relative to index: Fracture of rib,210,1,388020256
+8507001,gender = MALE,1,1,388020256
+8532001,gender = FEMALE,1,1,388020256
+45766064802,observation during day -365 through 0 days relative to index: History of single seizure,802,1,388020256
+4324181802,observation during day -365 through 0 days relative to index: History of cardiac arrest,802,1,388020256
+44783196502,procedure_occurrence during day -365 through 0 days relative to index: Surgical manipulation of joint of knee,502,1,388020256
+4151422502,procedure_occurrence during day -365 through 0 days relative to index: Sputum examination,502,1,388020256
+4125906502,procedure_occurrence during day -365 through 0 days relative to index: Suture open wound,502,1,388020256
+4293740502,procedure_occurrence during day -365 through 0 days relative to index: Injection of tetanus antitoxin,502,1,388020256
+4107731502,procedure_occurrence during day -365 through 0 days relative to index: Subcutaneous immunotherapy,502,1,388020256
+4191853502,procedure_occurrence during day -365 through 0 days relative to index: Allergy screening test,502,1,388020256
+4181917502,procedure_occurrence during day -365 through 0 days relative to index: Electroencephalogram,502,1,388020256
+4047491502,procedure_occurrence during day -365 through 0 days relative to index: Radiography of humerus,502,1,388020256
+4170947502,procedure_occurrence during day -365 through 0 days relative to index: Bone immobilization,502,1,388020256
+4058899502,procedure_occurrence during day -365 through 0 days relative to index: Plain X-ray of clavicle,502,1,388020256
+4252419502,procedure_occurrence during day -365 through 0 days relative to index: Radiologic examination of knee,502,1,388020256
+4163951502,procedure_occurrence during day -365 through 0 days relative to index: Electrocardiographic procedure,502,1,388020256
+4163971502,procedure_occurrence during day -365 through 0 days relative to index: Laparoscopic cholecystectomy,502,1,388020256
+4202832502,procedure_occurrence during day -365 through 0 days relative to index: Intubation,502,1,388020256
+42535580502,"procedure_occurrence during day -365 through 0 days relative to index: Ultrasonography of abdomen, right upper quadrant and epigastrium",502,1,388020256
+4243062502,procedure_occurrence during day -365 through 0 days relative to index: Radiography of wrist,502,1,388020256
+4163872502,procedure_occurrence during day -365 through 0 days relative to index: Plain chest X-ray,502,1,388020256
+4024289502,procedure_occurrence during day -365 through 0 days relative to index: Radiography of ankle,502,1,388020256
+4330583502,procedure_occurrence during day -365 through 0 days relative to index: Vasectomy,502,1,388020256
+4037675502,procedure_occurrence during day -365 through 0 days relative to index: Brief general examination,502,1,388020256
+4187458502,procedure_occurrence during day -365 through 0 days relative to index: Review of systems,502,1,388020256
+4326177502,procedure_occurrence during day -365 through 0 days relative to index: Medication Reconciliation,502,1,388020256
+4202451502,procedure_occurrence during day -365 through 0 days relative to index: Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance,502,1,388020256
+4010253502,procedure_occurrence during day -365 through 0 days relative to index: Nasal sinus endoscopy,502,1,388020256
+4035793502,procedure_occurrence during day -365 through 0 days relative to index: Pulmonary rehabilitation,502,1,388020256
+4057420502,procedure_occurrence during day -365 through 0 days relative to index: Catheter ablation of tissue of heart,502,1,388020256
+40492359502,procedure_occurrence during day -365 through 0 days relative to index: Insertion of biventricular implantable cardioverter defibrillator,502,1,388020256
+4197460502,procedure_occurrence during day -365 through 0 days relative to index: Injection of epinephrine,502,1,388020256
+4108705502,procedure_occurrence during day -365 through 0 days relative to index: Intravenous blood transfusion of packed cells,502,1,388020256
+6003,age group:  30 -  34,3,1,388020256
+7003,age group:  35 -  39,3,1,388020256
+8003,age group:  40 -  44,3,1,388020256
+9003,age group:  45 -  49,3,1,388020256
+1118084413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: celecoxib,413,1,388020256
+1115008413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Naproxen,413,1,388020256
+1124300413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Diclofenac,413,1,388020256
+975125413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Hydrocortisone,413,1,388020256
+19010482413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Cyclosporine,413,1,388020256
+1125315413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Acetaminophen,413,1,388020256
+1322184413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: clopidogrel,413,1,388020256
+1361711413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Nitroglycerin,413,1,388020256
+1305058413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Methotrexate,413,1,388020256
+1177480413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Ibuprofen,413,1,388020256
+740275413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Carbamazepine,413,1,388020256
+1521369413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Norethindrone,413,1,388020256
+1713332413,drug_era group (DrugGroupEraOverlapping) during day 0 through 0 days relative to index: Amoxicillin,413,1,388020256
+4107731504,procedure_occurrence during day -30 through 0 days relative to index: Subcutaneous immunotherapy,504,1,388020256
+4125906504,procedure_occurrence during day -30 through 0 days relative to index: Suture open wound,504,1,388020256
+4293740504,procedure_occurrence during day -30 through 0 days relative to index: Injection of tetanus antitoxin,504,1,388020256
+44783196504,procedure_occurrence during day -30 through 0 days relative to index: Surgical manipulation of joint of knee,504,1,388020256
+4170947504,procedure_occurrence during day -30 through 0 days relative to index: Bone immobilization,504,1,388020256
+4243062504,procedure_occurrence during day -30 through 0 days relative to index: Radiography of wrist,504,1,388020256
+4151422504,procedure_occurrence during day -30 through 0 days relative to index: Sputum examination,504,1,388020256
+4010253504,procedure_occurrence during day -30 through 0 days relative to index: Nasal sinus endoscopy,504,1,388020256
+4191853504,procedure_occurrence during day -30 through 0 days relative to index: Allergy screening test,504,1,388020256
+4252419504,procedure_occurrence during day -30 through 0 days relative to index: Radiologic examination of knee,504,1,388020256
+4037675504,procedure_occurrence during day -30 through 0 days relative to index: Brief general examination,504,1,388020256
+4187458504,procedure_occurrence during day -30 through 0 days relative to index: Review of systems,504,1,388020256
+4326177504,procedure_occurrence during day -30 through 0 days relative to index: Medication Reconciliation,504,1,388020256
+4197460504,procedure_occurrence during day -30 through 0 days relative to index: Injection of epinephrine,504,1,388020256
+1903,CHADS2,903,1,388020256

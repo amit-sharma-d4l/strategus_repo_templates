@@ -1,0 +1,1 @@
+analysis_id,target_id,comparator_id,outcome_id,interaction_covariate_id,rr,ci_95_lb,ci_95_ub,p,target_subjects,comparator_subjects,target_days,comparator_days,target_outcomes,comparator_outcomes,log_rr,se_log_rr,calibrated_rr,calibrated_ci_95_lb,calibrated_ci_95_ub,calibrated_p,calibrated_log_rr,calibrated_se_log_rr,target_estimator,database_id

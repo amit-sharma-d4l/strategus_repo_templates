@@ -1,0 +1,5 @@
+event_name,duration_min,duration_q_1,duration_median,duration_q_2,duration_max,duration_average,duration_sd,event_count,line,analysis_id,target_cohort_id,target_cohort_name,database_id
+mono-event,0,0,0,0,0,0,0,355,overall,1,1,celecoxib,388020256
+mono-event,0,0,0,0,0,0,0,355,1,1,1,celecoxib,388020256
+GI Bleed,0,0,0,0,0,0,0,355,overall,1,1,celecoxib,388020256
+GI Bleed,0,0,0,0,0,0,0,355,1,1,1,celecoxib,388020256

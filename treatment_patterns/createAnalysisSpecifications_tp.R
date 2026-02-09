@@ -11,9 +11,13 @@ studyEndDate <- "20231231"
 
 # Load all cohorts
 cohortDefinitionSet <- CohortGenerator::getCohortDefinitionSet(
-  settingsFileName = "inst/Eunomia/sampleStudy/treatment_util/Cohorts.csv",
-  jsonFolder = "inst/Eunomia/sampleStudy/treatment_util/cohorts",
-  sqlFolder = "inst/Eunomia/sampleStudy/treatment_util/sql/sql_server"
+  # settingsFileName = "./atlas_cohorts/Cohorts.csv",
+  # jsonFolder = "./atlas_cohorts/cohorts",
+  # sqlFolder = "./atlas_cohorts/sql/sql_server"
+
+  settingsFileName = "./gibleed_cohorts/Cohorts.csv",
+  jsonFolder = "./gibleed_cohorts/cohorts",
+  sqlFolder = "./gibleed_cohorts/sql/sql_server"
 )
 
 # Shared resources
@@ -35,7 +39,7 @@ cohorts_frame = data.frame(
 #             )
 treatmentPatternsSpecifications <- tpModuleSettingsCreator$createModuleSpecifications(
   cohorts = cohorts_frame, 
-  windowEnd = 730
+  windowEnd = 365
 )
 
 # Create analysis spec
@@ -48,6 +52,6 @@ analysisSpecifications <- Strategus::createEmptyAnalysisSpecificiations() |>
 # Save JSON
 ParallelLogger::saveSettingsToJson(
   analysisSpecifications,
-  file.path("inst", "Eunomia", "SampleStudy", "treatmentPatternsAnalysisSpecification.json")
+  file.path("./", "analysis_specs_tp.json")
 )
 print("Analysis specifications saved successfully.")

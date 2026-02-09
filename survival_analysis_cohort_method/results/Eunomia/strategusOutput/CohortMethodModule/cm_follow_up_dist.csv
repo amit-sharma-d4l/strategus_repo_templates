@@ -1,0 +1,2 @@
+target_id,comparator_id,outcome_id,analysis_id,target_min_days,target_p_10_days,target_p_25_days,target_median_days,target_p_75_days,target_p_90_days,target_max_days,comparator_min_days,comparator_p_10_days,comparator_p_25_days,comparator_median_days,comparator_p_75_days,comparator_p_90_days,comparator_max_days,target_min_date,target_max_date,comparator_min_date,comparator_max_date,database_id
+1,2,3,1,6,48.900000000000006,366,366,366,366,366,6,57.900000000000006,366,366,366,366,366,1941-12-05,2019-04-14,1943-07-03,2019-03-15,388020256

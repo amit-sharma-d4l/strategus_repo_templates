@@ -1,0 +1,4 @@
+atlas_id,cohort_id,cohort_name,logic_description,generate_stats
+1790367,1,cancer with chemotherapy,NA,TRUE
+1790365,2,cancer with radiotherapy,NA,TRUE
+1780946,3,death,NA,TRUE

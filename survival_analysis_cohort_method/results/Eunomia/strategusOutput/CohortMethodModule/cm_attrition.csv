@@ -1,0 +1,7 @@
+sequence_number,description,subjects,exposure_id,target_id,comparator_id,analysis_id,outcome_id,database_id
+1,Original cohorts,1800,1,1,2,1,3,388020256
+2,No prior outcome,1800,1,1,2,1,3,388020256
+3,Have at least 1 days at risk,1800,1,1,2,1,3,388020256
+1,Original cohorts,830,2,1,2,1,3,388020256
+2,No prior outcome,830,2,1,2,1,3,388020256
+3,Have at least 1 days at risk,830,2,1,2,1,3,388020256
